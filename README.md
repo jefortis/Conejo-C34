@@ -1,2 +1,1 @@
-# Conejo-C34
-Conejo C34
+Plantilla del código C34
